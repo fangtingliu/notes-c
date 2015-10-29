@@ -2,9 +2,9 @@
 
 This is my C-learning repo. I am currently using Learning C The Hard Way book.
 
-##printf## escape sequences:
+**printf** escape sequences:
 #\a#  : this one is soooo cool.
-      Makes a "beng" sound when you indlude it.
+        Makes a "beng" sound when you indlude it.
 #\b#  : delete the character/space right before the location "\b" was placed.
 #\f#  : print the folowing line in the same location of the next line. It is like a line break.
 #\r#  : erase the line and print whatever follows as the beginning of the line. It is easy to vision "\f" and "\r" used together for a line break even thought I have not idea why do not they use "\n".
